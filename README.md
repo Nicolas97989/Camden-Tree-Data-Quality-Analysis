@@ -32,3 +32,14 @@ This project evaluates the quality and usability of Camden tree datasets using P
 - Improve missing-value handling
 - Introduce validation rules
 - Strengthen data governance
+
+- ## Project Screenshots
+
+### Outlier Analysis
+![Outlier Analysis](images/outlier_analysis.png)
+
+### Geolocation Analysis
+![Geolocation Analysis](images/geolocation_analysis.png)
+
+### Unmatched Data
+![Unmatched Data](images/unmatched_data.png)
